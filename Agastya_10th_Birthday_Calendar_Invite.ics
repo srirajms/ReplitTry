@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Agastya Birthday Invitation//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:agastya-10th-birthday-20261106@chatgpt
+DTSTAMP:20261102T032100Z
+DTSTART;TZID=Asia/Kolkata:20261106T173000
+DTEND;TZID=Asia/Kolkata:20261106T203000
+SUMMARY:Agastya Turns 10 - RCB Forever!
+LOCATION:Red 55 Event Studio, Bengaluru
+DESCRIPTION:Join us to celebrate Agastya's 10th birthday!\nCome dressed in your RCB colours for a magic show, fun, food and surprises.\nGoogle Maps: https://maps.app.goo.gl/Qad9zVhYKHAcGEGR8?g_st=ic
+URL:https://maps.app.goo.gl/Qad9zVhYKHAcGEGR8?g_st=ic
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Agastya's 10th birthday celebration at 5:30 PM.
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
